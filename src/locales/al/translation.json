@@ -1,0 +1,167 @@
+{
+  "nav": {
+    "home": "Kryefaqja",
+    "services": "Sherbimet",
+    "prices": "Cmimet",
+    "contact": "Kontakti",
+    "callNow": "Telefono Tani",
+    "toggleMenu": "Hap menune e navigimit",
+    "languageSwitcherLabel": "Zgjidh gjuhen"
+  },
+  "common": {
+    "callNow": "Telefono Tani",
+    "bookNow": "Rezervo Tani",
+    "whatsApp": "WhatsApp",
+    "whatsAppChat": "Chat ne WhatsApp",
+    "available247": "Ne dispozicion 24/7"
+  },
+  "meta": {
+    "homeTitle": "Taxi ne Elbasan | Elbasan Taxi Service - Taxi Klodi Zguri",
+    "homeDescription": "Taxi ne Elbasan me sherbim 24/7, Airport Transfer Albania, rruge nderqytetese Albania Taxi dhe Taxi to Greece nga Taxi Klodi Zguri.",
+    "servicesTitle": "Opsionet e Elbasan Taxi Service | Taxi Klodi Zguri",
+    "servicesDescription": "Zbuloni zgjidhjet Elbasan Taxi Service duke perfshire Airport Transfer Albania, transport nderqytetes Albania Taxi dhe Taxi to Greece.",
+    "pricesTitle": "Cmimet Taxi ne Elbasan | Taxi Klodi Zguri",
+    "pricesDescription": "Shihni tarifa orientuese per Taxi ne Elbasan, rrugët Airport Transfer Albania dhe udhetime te gjata Albania Taxi ose Taxi to Greece.",
+    "contactTitle": "Kontakto Elbasan Taxi Service | Taxi Klodi Zguri",
+    "contactDescription": "Kontakto Taxi Klodi Zguri per Taxi ne Elbasan, rezervime Airport Transfer Albania, udhetime Albania Taxi dhe Taxi to Greece.",
+    "keywords": "Taxi in Elbasan, Elbasan Taxi Service, Albania Taxi, Taxi to Greece, Airport Transfer Albania"
+  },
+  "hero": {
+    "headline": "Taxi Premium ne Elbasan per Aeroport, Biznes dhe Udhetime ne Distance",
+    "subheadline": "Taxi Klodi Zguri ofron udhetime profesionale, korrekte dhe komode 24/7 me transferta te sigurta ne Shqiperi dhe Greqi.",
+    "exploreServices": "Shiko Sherbimet",
+    "bgAlt": "Mjet taxi premium ne qytetin e Elbasanit ne mbremje",
+    "sideImageAlt": "Mjet Elbasan Taxi Service gati per transferte aeroporti ne Shqiperi",
+    "whyTitle": "Pse te na zgjidhni",
+    "reasons": {
+      "fastTitle": "Pergjigje e shpejte",
+      "fastDesc": "Marrje e sigurt per rruge te shkurtra dhe kerkesa urgjente.",
+      "qualityTitle": "Cilesi profesionale ne udhetim",
+      "qualityDesc": "Mjete te pastra dhe shofer i fokusuar te siguria e komoditeti.",
+      "transferTitle": "Mbulese per aeroporte dhe jashte kufirit",
+      "transferDesc": "Rezervime Airport Transfer Albania dhe opsione Taxi to Greece."
+    }
+  },
+  "home": {
+    "coverageTitle": "Zona e Sherbimit dhe Disponueshmeria",
+    "locationTitle": "Vendndodhja",
+    "locationText": "Bulevardi Qemal Stafa, Elbasan (prane stadiumit)",
+    "serviceAreaTitle": "Zona e Sherbimit",
+    "serviceAreaText": "Elbasan, te gjitha rruget ne Shqiperi dhe transferta ne Greqi.",
+    "availabilityTitle": "Disponueshmeria",
+    "availabilityText": "24 ore / 7 dite per rezervime dhe udhetime urgjente."
+  },
+  "services": {
+    "heading": "Sherbime Taxi dhe Transferta ne Elbasan",
+    "intro": "Ofrojme zgjidhje transporti profesionale, te sigurta dhe ne kohe per rruge lokale dhe nderkombetare.",
+    "mainTitle": "Sherbimet Kryesore",
+    "imageAlt": "Planifikim rruge per Albania Taxi ne transferta aeroporti dhe nderqytetese",
+    "items": {
+      "taxi247Title": "Sherbim Taxi 24/7",
+      "taxi247Desc": "Disponueshmeri taxi sipas kerkeses ne cdo ore te dites.",
+      "airportTitle": "Transferta Aeroporti",
+      "airportDesc": "Transferta te besueshme nga dhe drejt aeroporteve me marrje ne kohe.",
+      "intercityTitle": "Transport Nderqytetes ne Shqiperi",
+      "intercityDesc": "Udhetime komode ne distance te gjata mes qyteteve kryesore shqiptare.",
+      "greeceTitle": "Transferta ne Greqi",
+      "greeceDesc": "Transport privat jashte kufirit me planifikim te sakte dhe orar fleksibel.",
+      "businessTitle": "Transport Privat dhe Biznesi",
+      "businessDesc": "Opsione profesionale per udhetime personale dhe takime biznesi."
+    }
+  },
+  "prices": {
+    "heading": "Udhëzuesi i Cmimit per Taxi ne Elbasan",
+    "intro": "Liste orientuese cmimesh. Na kontaktoni per tarife te sakte sipas rruges, orarit dhe kerkesave speciale.",
+    "tableTitle": "Cmime Orientuese te Rrugeve (Placeholder)",
+    "route": "Rruga",
+    "daytime": "Dita",
+    "night": "Nata",
+    "rows": {
+      "cityRide": "Udhetim ne Qytetin e Elbasanit",
+      "toTirana": "Elbasan - Tirane",
+      "toAirport": "Elbasan - Aeroporti i Tiranes",
+      "toDurres": "Elbasan - Durres",
+      "toGreece": "Elbasan - Transferte ne Greqi"
+    }
+  },
+  "contact": {
+    "heading": "Kontaktoni Sherbimin Tone Taxi ne Elbasan",
+    "intro": "Na kontaktoni ne cdo kohe per rezervime te menjehershme, transferta te planifikuara ose transport biznesi.",
+    "detailsTitle": "Detajet e Rezervimit dhe Mbështetjes",
+    "locationText": "Bulevardi Qemal Stafa, Elbasan, Shqiperi (prane stadiumit)",
+    "availabilityText": "Disponueshmeri 24/7",
+    "quickRequestTitle": "Kerkese e Shpejte",
+    "quickRequestText": "Per pergjigje me te shpejte, telefononi direkt ose shkruani ne WhatsApp me butonin lundrues.",
+    "formTitle": "Formulari i Kerkeses per Rezervim",
+    "formSubtitle": "Dergoni detajet e udhetimit dhe ne do konfirmojme shpejt.",
+    "nameLabel": "Emri i Plote",
+    "phoneLabel": "Numri i Telefonit",
+    "pickupLabel": "Vendndodhja e Marrjes",
+    "destinationLabel": "Destinacioni",
+    "messageLabel": "Detaje Shtese",
+    "messagePlaceholder": "Numri i fluturimit, ora e preferuar, bagazhe...",
+    "submit": "Rezervo Tani"
+  },
+  "footer": {
+    "description": "Transport i besueshem per rruge lokale, nderqytetese dhe nderkombetare. Ne dispozicion 24 ore ne dite, 7 dite ne jave.",
+    "rights": "Te gjitha te drejtat e rezervuara."
+  },
+  "floating": {
+    "callAria": "Telefono Taxi Klodi Zguri",
+    "whatsAppAria": "Bisedo ne WhatsApp"
+  },
+  "airport": {
+    "title": "Transferta Aeroporti - Aeroporti Nderkombetar i Tiranes",
+    "subtitle": "Sherbim Airport transfer Albania me marrje ne kohe",
+    "intro": "Sherbim i besueshem dhe komod per aeroportin me mbeshtetje profesionale ne cdo udhetim.",
+    "point1": "Transferta te besueshme 24/7 nga dhe drejt Aeroportit Nderkombetar te Tiranes.",
+    "point2": "Marrje dhe dergim ne kohe.",
+    "point3": "Mjet komod dhe i paster.",
+    "point4": "I disponueshem per individe, familje dhe kliente biznesi.",
+    "imageAlt": "Drita nate ne terminalin e aeroportit dhe piste per transferte drejt Tiranes"
+  },
+  "routes": {
+    "title": "Rruget Popullore nga Elbasani",
+    "subtitle": "Rruge Taxi in Elbasan per Shqiperi dhe Greqi",
+    "intro": "Rruget me te kerkuara per udhetime lokale, nderqytetese dhe jashte kufirit. Na kontaktoni per konfirmim te shpejte dhe oferte.",
+    "pricing": "Kontaktoni per cmimin",
+    "items": {
+      "airport": {
+        "title": "Elbasan -> Aeroporti i Tiranes",
+        "desc": "Transferte direkte per aeroport me marrje ne kohe dhe udhetim te qete."
+      },
+      "tirana": {
+        "title": "Elbasan -> Tirane",
+        "desc": "Udhetim komod qytet me qytet per nevoja biznesi ose personale."
+      },
+      "durres": {
+        "title": "Elbasan -> Durres",
+        "desc": "Transferte e besueshme drejt Durresit me nisje fleksibel."
+      },
+      "vlore": {
+        "title": "Elbasan -> Vlore",
+        "desc": "Rruge bregdetare ne distance me sherbim te sigurt dhe profesional."
+      },
+      "sarande": {
+        "title": "Elbasan -> Sarande",
+        "desc": "Transferte private drejt Sarandes per turizem ose udhetime familjare."
+      },
+      "thessaloniki": {
+        "title": "Elbasan -> Selanik",
+        "desc": "Transferte jashte kufirit e planifikuar per komoditet dhe saktesi."
+      },
+      "ioannina": {
+        "title": "Elbasan -> Janine",
+        "desc": "Rruge e pershtatshme drejt Janines me mbeshtetje dere me dere."
+      }
+    }
+  },
+  "map": {
+    "title": "Na Gjeni ne Elbasan",
+    "subtitle": "Pika e nisjes dhe zyra Taxi in Elbasan",
+    "addressLine1": "Bulevardi Qemal Stafa",
+    "addressLine2": "Elbasan, Shqiperi",
+    "phoneLabel": "Tel:",
+    "iframeTitle": "Harta e vendndodhjes Taxi Klodi Zguri"
+  }
+}

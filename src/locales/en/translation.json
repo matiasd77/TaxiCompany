@@ -1,0 +1,167 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "prices": "Prices",
+    "contact": "Contact",
+    "callNow": "Call Now",
+    "toggleMenu": "Toggle navigation menu",
+    "languageSwitcherLabel": "Select language"
+  },
+  "common": {
+    "callNow": "Call Now",
+    "bookNow": "Book Now",
+    "whatsApp": "WhatsApp",
+    "whatsAppChat": "WhatsApp Chat",
+    "available247": "Available 24/7"
+  },
+  "meta": {
+    "homeTitle": "Taxi in Elbasan | Elbasan Taxi Service - Taxi Klodi Zguri",
+    "homeDescription": "Taxi in Elbasan with 24/7 rides, Airport Transfer Albania, Albania Taxi intercity routes, and Taxi to Greece by Taxi Klodi Zguri.",
+    "servicesTitle": "Elbasan Taxi Service Options | Taxi Klodi Zguri",
+    "servicesDescription": "Discover Elbasan Taxi Service solutions including Airport Transfer Albania, Albania Taxi intercity transport, and Taxi to Greece.",
+    "pricesTitle": "Taxi in Elbasan Prices | Taxi Klodi Zguri",
+    "pricesDescription": "View sample fares for Taxi in Elbasan, Airport Transfer Albania routes, and long-distance Albania Taxi or Taxi to Greece trips.",
+    "contactTitle": "Contact Elbasan Taxi Service | Taxi Klodi Zguri",
+    "contactDescription": "Contact Taxi Klodi Zguri for Taxi in Elbasan, Airport Transfer Albania bookings, Albania Taxi travel, and Taxi to Greece.",
+    "keywords": "Taxi in Elbasan, Elbasan Taxi Service, Albania Taxi, Taxi to Greece, Airport Transfer Albania"
+  },
+  "hero": {
+    "headline": "Premium Taxi in Elbasan for Airport, Business, and Long-Distance Travel",
+    "subheadline": "Taxi Klodi Zguri delivers professional, punctual, and comfortable rides 24/7 with trusted transfers across Albania and to Greece.",
+    "exploreServices": "Explore Services",
+    "bgAlt": "Premium taxi vehicle in Elbasan city at night",
+    "sideImageAlt": "Elbasan Taxi Service vehicle ready for airport transfer in Albania",
+    "whyTitle": "Why Choose Our Elbasan Taxi Service",
+    "reasons": {
+      "fastTitle": "Fast response times",
+      "fastDesc": "Reliable pickups for short local trips and urgent rides.",
+      "qualityTitle": "Professional ride quality",
+      "qualityDesc": "Clean vehicles and a driver focused on safety and comfort.",
+      "transferTitle": "Airport and cross-border transfer support",
+      "transferDesc": "Airport Transfer Albania bookings and Taxi to Greece options."
+    }
+  },
+  "home": {
+    "coverageTitle": "Service Coverage and Availability",
+    "locationTitle": "Location",
+    "locationText": "Bulevardi Qemal Stafa, Elbasan (near the stadium)",
+    "serviceAreaTitle": "Service Area",
+    "serviceAreaText": "Elbasan, all Albania routes, and transfers to Greece.",
+    "availabilityTitle": "Availability",
+    "availabilityText": "24 hours / 7 days for bookings and urgent rides."
+  },
+  "services": {
+    "heading": "Elbasan Taxi Service and Transfer Solutions",
+    "intro": "We offer professional, safe, and punctual transport solutions for local and international routes.",
+    "mainTitle": "Main Services",
+    "imageAlt": "Albania Taxi service route planning for airport and intercity transfers",
+    "items": {
+      "taxi247Title": "24/7 Taxi Service",
+      "taxi247Desc": "On-demand taxi availability for daily travel at any hour.",
+      "airportTitle": "Airport Transfers",
+      "airportDesc": "Reliable transfers to and from airport terminals with on-time pickup.",
+      "intercityTitle": "Intercity Transport in Albania",
+      "intercityDesc": "Comfortable long-distance rides between major Albanian cities.",
+      "greeceTitle": "Transfers to Greece",
+      "greeceDesc": "Cross-border private transport with planned routes and flexible scheduling.",
+      "businessTitle": "Private and Business Transport",
+      "businessDesc": "Professional transport options for personal trips and business meetings."
+    }
+  },
+  "prices": {
+    "heading": "Taxi in Elbasan Pricing Guide",
+    "intro": "Placeholder price list for reference. Contact us directly for exact fare details based on route, schedule, and special requests.",
+    "tableTitle": "Sample Route Pricing (Placeholder)",
+    "route": "Route",
+    "daytime": "Daytime",
+    "night": "Night",
+    "rows": {
+      "cityRide": "Elbasan City Ride",
+      "toTirana": "Elbasan to Tirana",
+      "toAirport": "Elbasan to Tirana Airport",
+      "toDurres": "Elbasan to Durres",
+      "toGreece": "Elbasan to Greece Transfer"
+    }
+  },
+  "contact": {
+    "heading": "Contact Our Elbasan Taxi Service",
+    "intro": "Reach out anytime for immediate taxi booking, scheduled transfers, or business transport.",
+    "detailsTitle": "Booking and Support Details",
+    "locationText": "Bulevardi Qemal Stafa, Elbasan, Albania (near the stadium)",
+    "availabilityText": "24/7 availability",
+    "quickRequestTitle": "Quick Request",
+    "quickRequestText": "For fastest response, call directly or message us on WhatsApp using the floating button.",
+    "formTitle": "Booking Request Form",
+    "formSubtitle": "Send your trip details and we will confirm your ride quickly.",
+    "nameLabel": "Full Name",
+    "phoneLabel": "Phone Number",
+    "pickupLabel": "Pickup Location",
+    "destinationLabel": "Destination",
+    "messageLabel": "Additional Details",
+    "messagePlaceholder": "Flight number, preferred time, luggage details...",
+    "submit": "Book Now"
+  },
+  "footer": {
+    "description": "Reliable transport for local, intercity, and international routes. Available 24 hours a day, 7 days a week.",
+    "rights": "All rights reserved."
+  },
+  "floating": {
+    "callAria": "Call Taxi Klodi Zguri",
+    "whatsAppAria": "Chat on WhatsApp"
+  },
+  "airport": {
+    "title": "Airport Transfers - Tirana International Airport",
+    "subtitle": "Airport transfer Albania service with on-time pickups",
+    "intro": "Professional Airport transfer Albania rides, including Taxi from Elbasan to Tirana Airport, with reliable support for every trip.",
+    "point1": "Reliable 24/7 transfers to and from Tirana International Airport.",
+    "point2": "On-time pickup and drop-off.",
+    "point3": "Comfortable and clean vehicle.",
+    "point4": "Available for individuals, families, and business clients.",
+    "imageAlt": "Airport terminal night lights with runway for Tirana airport transfer service"
+  },
+  "routes": {
+    "title": "Popular Routes From Elbasan",
+    "subtitle": "Taxi in Elbasan routes for Albania and Greece",
+    "intro": "Book Taxi in Elbasan for daily city rides, intercity transfers, and Taxi to Greece routes with flexible scheduling.",
+    "pricing": "Contact for pricing",
+    "items": {
+      "airport": {
+        "title": "Taxi from Elbasan to Tirana Airport",
+        "desc": "Direct airport transfer Albania route with timely pickup and smooth travel."
+      },
+      "tirana": {
+        "title": "Elbasan -> Tirana",
+        "desc": "Comfortable city-to-city taxi ride for business and personal travel."
+      },
+      "durres": {
+        "title": "Elbasan -> Durres",
+        "desc": "Reliable transfer to Durres with flexible departure times."
+      },
+      "vlore": {
+        "title": "Elbasan -> Vlore",
+        "desc": "Long-distance coastal route with safe and professional service."
+      },
+      "sarande": {
+        "title": "Elbasan -> Sarande",
+        "desc": "Private transfer to Sarande for tourism or family trips."
+      },
+      "thessaloniki": {
+        "title": "Elbasan -> Thessaloniki",
+        "desc": "Popular Taxi to Greece route planned for comfort and punctuality."
+      },
+      "ioannina": {
+        "title": "Elbasan -> Ioannina",
+        "desc": "Convenient Taxi to Greece transfer with door-to-door support."
+      }
+    }
+  },
+  "map": {
+    "title": "Find Us in Elbasan",
+    "subtitle": "Taxi in Elbasan office and pickup location",
+    "addressLine1": "Bulevardi Qemal Stafa",
+    "addressLine2": "Elbasan, Albania",
+    "phoneLabel": "Phone:",
+    "iframeTitle": "Taxi Klodi Zguri location map"
+  }
+}

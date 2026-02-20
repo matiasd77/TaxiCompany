@@ -1,0 +1,167 @@
+{
+  "nav": {
+    "home": "Αρχικη",
+    "services": "Υπηρεσιες",
+    "prices": "Τιμες",
+    "contact": "Επικοινωνια",
+    "callNow": "Καλεστε Τωρα",
+    "toggleMenu": "Ανοιγμα μενου πλοηγησης",
+    "languageSwitcherLabel": "Επιλογη γλωσσας"
+  },
+  "common": {
+    "callNow": "Καλεστε Τωρα",
+    "bookNow": "Κλειστε Τωρα",
+    "whatsApp": "WhatsApp",
+    "whatsAppChat": "Chat στο WhatsApp",
+    "available247": "Διαθεσιμο 24/7"
+  },
+  "meta": {
+    "homeTitle": "Taxi in Elbasan | Elbasan Taxi Service - Taxi Klodi Zguri",
+    "homeDescription": "Taxi in Elbasan με εξυπηρετηση 24/7, Airport Transfer Albania, διαδρομες Albania Taxi και Taxi to Greece απο την Taxi Klodi Zguri.",
+    "servicesTitle": "Επιλογες Elbasan Taxi Service | Taxi Klodi Zguri",
+    "servicesDescription": "Ανακαλυψτε υπηρεσιες Elbasan Taxi Service, Airport Transfer Albania, διαδρομες Albania Taxi και Taxi to Greece.",
+    "pricesTitle": "Τιμες Taxi in Elbasan | Taxi Klodi Zguri",
+    "pricesDescription": "Δειτε ενδεικτικες τιμες για Taxi in Elbasan, Airport Transfer Albania και μεγαλες διαδρομες Albania Taxi η Taxi to Greece.",
+    "contactTitle": "Επικοινωνια Elbasan Taxi Service | Taxi Klodi Zguri",
+    "contactDescription": "Επικοινωνηστε με Taxi Klodi Zguri για Taxi in Elbasan, Airport Transfer Albania, Albania Taxi και Taxi to Greece.",
+    "keywords": "Taxi in Elbasan, Elbasan Taxi Service, Albania Taxi, Taxi to Greece, Airport Transfer Albania"
+  },
+  "hero": {
+    "headline": "Premium Taxi in Elbasan για Αεροδρομιο, Επιχειρησεις και Μεγαλες Διαδρομες",
+    "subheadline": "Η Taxi Klodi Zguri προσφερει επαγγελματικες, συνεπεις και ανετες διαδρομες 24/7 σε ολη την Αλβανια και προς Ελλαδα.",
+    "exploreServices": "Δειτε Υπηρεσιες",
+    "bgAlt": "Premium ταξι στην πολη του Ελμπασαν τη νυχτα",
+    "sideImageAlt": "Οχημα Elbasan Taxi Service ετοιμο για Airport Transfer Albania",
+    "whyTitle": "Γιατι να μας επιλεξετε",
+    "reasons": {
+      "fastTitle": "Γρηγορη ανταποκριση",
+      "fastDesc": "Αξιοπιστες παραλαβες για κοντινες και επειγουσες διαδρομες.",
+      "qualityTitle": "Επαγγελματικη ποιοτητα διαδρομης",
+      "qualityDesc": "Καθαρα οχηματα και οδηγος με προτεραιοτητα την ασφαλεια και ανεση.",
+      "transferTitle": "Υποστηριξη αεροδρομιου και διασυνοριακων μεταφορων",
+      "transferDesc": "Κρατησεις Airport Transfer Albania και επιλογες Taxi to Greece."
+    }
+  },
+  "home": {
+    "coverageTitle": "Περιοχη Εξυπηρετησης και Διαθεσιμοτητα",
+    "locationTitle": "Τοποθεσια",
+    "locationText": "Bulevardi Qemal Stafa, Elbasan (κοντα στο σταδιο)",
+    "serviceAreaTitle": "Περιοχη Εξυπηρετησης",
+    "serviceAreaText": "Elbasan, ολες οι διαδρομες στην Αλβανια και μεταφορες προς Ελλαδα.",
+    "availabilityTitle": "Διαθεσιμοτητα",
+    "availabilityText": "24 ωρες / 7 ημερες για κρατησεις και επειγοντα δρομολογια."
+  },
+  "services": {
+    "heading": "Υπηρεσιες Taxi και Μεταφορων στο Elbasan",
+    "intro": "Προσφερουμε επαγγελματικες, ασφαλεις και ακριβεις λυσεις μεταφορας για τοπικες και διεθνεις διαδρομες.",
+    "mainTitle": "Βασικες Υπηρεσιες",
+    "imageAlt": "Σχεδιασμος διαδρομης Albania Taxi για airport και intercity μεταφορες",
+    "items": {
+      "taxi247Title": "Υπηρεσια Taxi 24/7",
+      "taxi247Desc": "Taxi κατ' απαιτηση για καθημερινες μετακινησεις οποιαδηποτε ωρα.",
+      "airportTitle": "Μεταφορες Αεροδρομιου",
+      "airportDesc": "Αξιοπιστες μεταφορες προς και απο αεροδρομιο με εγκαιρη παραλαβη.",
+      "intercityTitle": "Intercity Μεταφορα στην Αλβανια",
+      "intercityDesc": "Ανετες μεγαλες διαδρομες μεταξυ βασικων πολεων της Αλβανιας.",
+      "greeceTitle": "Μεταφορες προς Ελλαδα",
+      "greeceDesc": "Ιδιωτικη διασυνοριακη μεταφορα με οργανωμενες διαδρομες και ευελικτο προγραμμα.",
+      "businessTitle": "Ιδιωτικη και Επιχειρηματικη Μεταφορα",
+      "businessDesc": "Επαγγελματικες επιλογες για προσωπικα ταξιδια και επαγγελματικες συναντησεις."
+    }
+  },
+  "prices": {
+    "heading": "Οδηγος Τιμων Taxi in Elbasan",
+    "intro": "Ενδεικτικος πινακας τιμων. Επικοινωνηστε για ακριβη κοστολογηση αναλογα με διαδρομη, ωραριο και ειδικες απαιτησεις.",
+    "tableTitle": "Ενδεικτικες Τιμες Διαδρομων (Placeholder)",
+    "route": "Διαδρομη",
+    "daytime": "Ημερα",
+    "night": "Νυχτα",
+    "rows": {
+      "cityRide": "Διαδρομη στην Πολη του Elbasan",
+      "toTirana": "Elbasan προς Τιρανα",
+      "toAirport": "Elbasan προς Αεροδρομιο Τιρανων",
+      "toDurres": "Elbasan προς Δυρραχιο",
+      "toGreece": "Elbasan προς Ελλαδα"
+    }
+  },
+  "contact": {
+    "heading": "Επικοινωνηστε με την Υπηρεσια Taxi στο Elbasan",
+    "intro": "Επικοινωνηστε οποτεδηποτε για αμεση κρατηση, προγραμματισμενη μεταφορα ή εταιρικη μετακινηση.",
+    "detailsTitle": "Στοιχεια Κρατησης και Υποστηριξης",
+    "locationText": "Bulevardi Qemal Stafa, Elbasan, Albania (κοντα στο σταδιο)",
+    "availabilityText": "Διαθεσιμοτητα 24/7",
+    "quickRequestTitle": "Γρηγορο Αιτημα",
+    "quickRequestText": "Για αμεση εξυπηρετηση, καλεστε απευθειας ή στειλτε μηνυμα στο WhatsApp απο το floating button.",
+    "formTitle": "Φορμα Αιτηματος Κρατησης",
+    "formSubtitle": "Στειλτε τα στοιχεια της διαδρομης και θα επιβεβαιωσουμε γρηγορα.",
+    "nameLabel": "Ονοματεπωνυμο",
+    "phoneLabel": "Τηλεφωνο",
+    "pickupLabel": "Σημειο Παραλαβης",
+    "destinationLabel": "Προορισμος",
+    "messageLabel": "Επιπλεον Πληροφοριες",
+    "messagePlaceholder": "Αριθμος πτησης, επιθυμητη ωρα, αποσκευες...",
+    "submit": "Κλειστε Τωρα"
+  },
+  "footer": {
+    "description": "Αξιοπιστη μεταφορα για τοπικες, intercity και διεθνεις διαδρομες. Διαθεσιμο 24 ωρες την ημερα, 7 ημερες την εβδομαδα.",
+    "rights": "Με επιφυλαξη παντος δικαιωματος."
+  },
+  "floating": {
+    "callAria": "Καλεστε Taxi Klodi Zguri",
+    "whatsAppAria": "Chat στο WhatsApp"
+  },
+  "airport": {
+    "title": "Μεταφορες Αεροδρομιου - Διεθνες Αεροδρομιο Τιρανων",
+    "subtitle": "Υπηρεσια Airport transfer Albania με εγκαιρη παραλαβη",
+    "intro": "Αξιοπιστη και ανετη υπηρεσια αεροδρομιου με επαγγελματικη υποστηριξη σε καθε διαδρομη.",
+    "point1": "Αξιοπιστες μεταφορες 24/7 προς και απο το Διεθνες Αεροδρομιο Τιρανων.",
+    "point2": "Παραλαβη και αφιξη στην ωρα τους.",
+    "point3": "Ανετο και καθαρο οχημα.",
+    "point4": "Διαθεσιμο για ιδιωτες, οικογενειες και επαγγελματιες.",
+    "imageAlt": "Νυχτερινα φωτα τερματικου αεροδρομιου και διαδρομος για μεταφορα προς Τιρανα"
+  },
+  "routes": {
+    "title": "Δημοφιλειες Διαδρομες απο Elbasan",
+    "subtitle": "Διαδρομες Taxi in Elbasan για Αλβανια και Ελλαδα",
+    "intro": "Συχνα δρομολογια για τοπικες, διαπολεων και διασυνοριακες μεταφορες. Επικοινωνηστε για γρηγορη επιβεβαιωση και προσφορα.",
+    "pricing": "Επικοινωνηστε για τιμη",
+    "items": {
+      "airport": {
+        "title": "Elbasan -> Αεροδρομιο Τιρανων",
+        "desc": "Απευθειας μεταφορα αεροδρομιου με εγκαιρη παραλαβη και ομαλη διαδρομη."
+      },
+      "tirana": {
+        "title": "Elbasan -> Τιρανα",
+        "desc": "Ανετη μεταφορα απο πολη σε πολη για επαγγελματικα και προσωπικα ταξιδια."
+      },
+      "durres": {
+        "title": "Elbasan -> Δυρραχιο",
+        "desc": "Αξιοπιστη μεταφορα προς Δυρραχιο με ευελικτες ωρες αναχωρησης."
+      },
+      "vlore": {
+        "title": "Elbasan -> Αυλωνα",
+        "desc": "Μεγαλη παραθαλασσια διαδρομη με ασφαλη και επαγγελματικη εξυπηρετηση."
+      },
+      "sarande": {
+        "title": "Elbasan -> Σαραντα",
+        "desc": "Ιδιωτικη μεταφορα προς Σαραντα για τουρισμο ή οικογενειακα ταξιδια."
+      },
+      "thessaloniki": {
+        "title": "Elbasan -> Θεσσαλονικη",
+        "desc": "Διασυνοριακη μεταφορα με προγραμματισμο για ανεση και συνεπεια."
+      },
+      "ioannina": {
+        "title": "Elbasan -> Ιωαννινα",
+        "desc": "Ευκολη διαδρομη προς Ιωαννινα με υποστηριξη απο πορτα σε πορτα."
+      }
+    }
+  },
+  "map": {
+    "title": "Βρειτε μας στο Elbasan",
+    "subtitle": "Τοποθεσια γραφειου και παραλαβης Taxi in Elbasan",
+    "addressLine1": "Bulevardi Qemal Stafa",
+    "addressLine2": "Elbasan, Albania",
+    "phoneLabel": "Τηλ:",
+    "iframeTitle": "Χαρτης τοποθεσιας Taxi Klodi Zguri"
+  }
+}
