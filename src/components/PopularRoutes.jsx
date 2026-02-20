@@ -5,13 +5,13 @@ function PopularRoutes() {
   const { t } = useTranslation()
 
   const routes = [
-    { title: t('routes.items.airport.title'), desc: t('routes.items.airport.desc') },
-    { title: t('routes.items.tirana.title'), desc: t('routes.items.tirana.desc') },
-    { title: t('routes.items.durres.title'), desc: t('routes.items.durres.desc') },
-    { title: t('routes.items.vlore.title'), desc: t('routes.items.vlore.desc') },
-    { title: t('routes.items.sarande.title'), desc: t('routes.items.sarande.desc') },
-    { title: t('routes.items.thessaloniki.title'), desc: t('routes.items.thessaloniki.desc') },
-    { title: t('routes.items.ioannina.title'), desc: t('routes.items.ioannina.desc') },
+    { title: t('routes.items.airport.title'), desc: t('routes.items.airport.desc'), isGreece: false },
+    { title: t('routes.items.tirana.title'), desc: t('routes.items.tirana.desc'), isGreece: false },
+    { title: t('routes.items.durres.title'), desc: t('routes.items.durres.desc'), isGreece: false },
+    { title: t('routes.items.vlore.title'), desc: t('routes.items.vlore.desc'), isGreece: false },
+    { title: t('routes.items.sarande.title'), desc: t('routes.items.sarande.desc'), isGreece: false },
+    { title: t('routes.items.thessaloniki.title'), desc: t('routes.items.thessaloniki.desc'), isGreece: true },
+    { title: t('routes.items.ioannina.title'), desc: t('routes.items.ioannina.desc'), isGreece: true },
   ]
 
   return (
@@ -31,7 +31,11 @@ function PopularRoutes() {
             </div>
             <h3 className="mt-4 text-base font-semibold text-white">{route.title}</h3>
             <p className="mt-2 text-sm text-zinc-300">{route.desc}</p>
-            <p className="mt-3 text-xs font-semibold uppercase tracking-wide text-yellow-300">{t('routes.pricing')}</p>
+            {route.isGreece && (
+              <p className="mt-3 text-xs font-semibold uppercase tracking-wide text-yellow-300">
+                {t('routes.greecePricing')}
+              </p>
+            )}
             <a
               href="tel:+355674908618"
               className="mt-4 inline-flex items-center gap-2 rounded-lg border border-yellow-400/40 px-4 py-2 text-sm font-semibold text-yellow-300 transition hover:bg-yellow-400 hover:text-black"

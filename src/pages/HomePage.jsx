@@ -59,7 +59,7 @@ function HomePage() {
                 {t('common.whatsApp')}
               </a>
               <Link
-                to="/contact#booking-form"
+                to="/contact"
                 className="inline-flex w-full items-center justify-center gap-2 rounded-lg border border-zinc-500/60 bg-black/30 px-6 py-3 text-sm font-semibold text-zinc-100 transition hover:border-yellow-400/60 hover:text-yellow-300 sm:w-auto"
               >
                 {t('common.bookNow')}

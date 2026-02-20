@@ -72,7 +72,7 @@
   "prices": {
     "heading": "Udhëzuesi i Cmimit per Taxi ne Elbasan",
     "intro": "Liste orientuese cmimesh. Na kontaktoni per tarife te sakte sipas rruges, orarit dhe kerkesave speciale.",
-    "tableTitle": "Cmime Orientuese te Rrugeve (Placeholder)",
+    "tableTitle": "Cmime Orientuese te Rrugeve",
     "route": "Rruga",
     "daytime": "Dita",
     "night": "Nata",
@@ -124,7 +124,7 @@
     "title": "Rruget Popullore nga Elbasani",
     "subtitle": "Rruge Taxi in Elbasan per Shqiperi dhe Greqi",
     "intro": "Rruget me te kerkuara per udhetime lokale, nderqytetese dhe jashte kufirit. Na kontaktoni per konfirmim te shpejte dhe oferte.",
-    "pricing": "Kontaktoni per cmimin",
+    "greecePricing": "Cmimi varet nga qyteti i destinacionit ne Greqi",
     "items": {
       "airport": {
         "title": "Elbasan -> Aeroporti i Tiranes",

@@ -71,8 +71,8 @@
   },
   "prices": {
     "heading": "Taxi in Elbasan Pricing Guide",
-    "intro": "Placeholder price list for reference. Contact us directly for exact fare details based on route, schedule, and special requests.",
-    "tableTitle": "Sample Route Pricing (Placeholder)",
+    "intro": "Price list for reference. Contact us directly for exact fare details based on route, schedule, and special requests.",
+    "tableTitle": "Sample Route Pricing",
     "route": "Route",
     "daytime": "Daytime",
     "night": "Night",
@@ -124,7 +124,7 @@
     "title": "Popular Routes From Elbasan",
     "subtitle": "Taxi in Elbasan routes for Albania and Greece",
     "intro": "Book Taxi in Elbasan for daily city rides, intercity transfers, and Taxi to Greece routes with flexible scheduling.",
-    "pricing": "Contact for pricing",
+    "greecePricing": "Pricing depends on destination city in Greece",
     "items": {
       "airport": {
         "title": "Taxi from Elbasan to Tirana Airport",
